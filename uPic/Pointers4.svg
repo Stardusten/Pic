@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="771px" height="417px" viewBox="0 0 771 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>未命名</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(1.000000, 38.000000)">
+            <g id="编组" transform="translate(80.000000, 78.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(40.000000, 154.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 230.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(93.000000, 81.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="f" transform="translate(53.000000, 161.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="f">
+                        <tspan x="0" y="20">f</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" stroke-linecap="round" transform="translate(72.000000, 108.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" stroke-linecap="round" transform="translate(73.500000, 138.500000) rotate(180.000000) translate(-73.500000, -138.500000) translate(60.000000, 113.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" opacity="0.3" stroke-linecap="round" transform="translate(32.000000, 184.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" opacity="0.3" stroke-linecap="round" transform="translate(33.500000, 214.500000) rotate(180.000000) translate(-33.500000, -214.500000) translate(20.000000, 189.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" stroke-linecap="round" transform="translate(109.500000, 60.500000) rotate(180.000000) translate(-109.500000, -60.500000) translate(96.000000, 35.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" stroke-linecap="round" transform="translate(80.500000, 204.500000) scale(-1, 1) translate(-80.500000, -204.500000) translate(67.000000, 179.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" stroke-linecap="round" transform="translate(77.500000, 217.500000) scale(-1, 1) rotate(-180.000000) translate(-77.500000, -217.500000) translate(64.000000, 192.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" transform="translate(80.000000, 78.000000)" fill="#C3EEFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(40.000000, 154.000000)" fill="#E3FFC6" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(80.000000, 230.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 230.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(93.000000, 81.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" stroke-linecap="round" transform="translate(109.000000, 29.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" transform="translate(116.000000, 0.000000)" fill="#FFEEBF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(129.000000, 6.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="R">
+                    <text>
+                        <tspan x="0" y="20">R</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="f" transform="translate(53.000000, 161.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="f">
+                        <tspan x="0" y="20">f</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="fr" transform="translate(88.000000, 236.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="fr">
+                        <tspan x="0" y="20">fr</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="v" transform="translate(13.000000, 236.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="v">
+                        <tspan x="0" y="20">v</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="编组-4" transform="translate(439.666667, 39.000000)">
+            <g id="编组-2" stroke-linecap="round" transform="translate(76.500000, 128.500000) scale(-1, 1) translate(-76.500000, -128.500000) translate(63.000000, 103.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" opacity="0.3" stroke-linecap="round" transform="translate(33.500000, 137.500000) rotate(180.000000) translate(-33.500000, -137.500000) translate(20.000000, 112.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" opacity="0.3" stroke-linecap="round" transform="translate(32.000000, 107.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(58.500000, 171.000000) scale(-1, 1) rotate(-26.000000) translate(-58.500000, -171.000000) translate(33.000000, 120.000000)" stroke="#000000" stroke-width="2">
+                <line x1="50.0929649" y1="0.332717514" x2="1" y2="101.5" id="直线"></line>
+                <line x1="1" y1="101" x2="1.75" y2="93.25" id="直线-2"></line>
+                <line x1="1.6875" y1="101.1875" x2="6.75" y2="96.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(101.276177, 95.016961) scale(-1, 1) rotate(-26.000000) translate(-101.276177, -95.016961) translate(75.776177, 44.016961)" stroke="#000000" stroke-width="2">
+                <line x1="50.0929649" y1="0.332717514" x2="1" y2="101.5" id="直线"></line>
+                <line x1="1" y1="101" x2="1.75" y2="93.25" id="直线-2"></line>
+                <line x1="1.6875" y1="101.1875" x2="6.75" y2="96.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(94.276177, 96.016961) rotate(154.000000) translate(-94.276177, -96.016961) translate(68.776177, 45.016961)" stroke="#000000" stroke-width="2">
+                <line x1="50.0929649" y1="0.332717514" x2="1" y2="101.5" id="直线"></line>
+                <line x1="1" y1="101" x2="1.75" y2="93.25" id="直线-2"></line>
+                <line x1="1.6875" y1="101.1875" x2="6.75" y2="96.25" id="直线-2"></line>
+            </g>
+            <g id="编组" transform="translate(40.000000, 77.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 153.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(53.000000, 80.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="f" transform="translate(13.000000, 160.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="f">
+                        <tspan x="0" y="20">f</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(73.500000, 213.500000) rotate(180.000000) translate(-73.500000, -213.500000) translate(60.000000, 188.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(72.000000, 183.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" transform="translate(40.000000, 77.000000)" fill="#E3FFC6" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 153.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(40.000000, 229.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="f" transform="translate(53.000000, 83.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="f">
+                        <tspan x="0" y="20">f</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" transform="translate(80.000000, 153.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(93.000000, 156.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" transform="translate(80.000000, 153.000000)" fill="#C3EEFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(93.000000, 156.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="v" transform="translate(13.000000, 159.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="v">
+                        <tspan x="0" y="20">v</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="fr" transform="translate(48.000000, 235.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="fr">
+                        <tspan x="0" y="20">fr</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" transform="translate(77.000000, 0.000000)" fill="#FFEEBF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(90.000000, 6.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="R">
+                    <text>
+                        <tspan x="0" y="20">R</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="编组-3" transform="translate(220.333333, 38.000000)">
+            <g id="编组" transform="translate(80.000000, 78.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(40.000000, 154.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 230.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(93.000000, 81.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="f" transform="translate(53.000000, 161.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="f">
+                        <tspan x="0" y="20">f</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(75.500000, 140.500000) rotate(180.000000) translate(-75.500000, -140.500000) translate(62.000000, 115.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" opacity="0.3" stroke-linecap="round" transform="translate(32.000000, 184.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" opacity="0.3" stroke-linecap="round" transform="translate(33.500000, 214.500000) rotate(180.000000) translate(-33.500000, -214.500000) translate(20.000000, 189.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(109.500000, 60.500000) rotate(180.000000) translate(-109.500000, -60.500000) translate(96.000000, 35.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(80.500000, 205.500000) scale(-1, 1) translate(-80.500000, -205.500000) translate(67.000000, 180.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(105.500000, 172.000000) scale(-1, 1) rotate(-26.000000) translate(-105.500000, -172.000000) translate(80.000000, 121.000000)" stroke="#000000" stroke-width="2">
+                <line x1="50.0929649" y1="0.332717514" x2="1" y2="101.5" id="直线"></line>
+                <line x1="1" y1="101" x2="1.75" y2="93.25" id="直线-2"></line>
+                <line x1="1.6875" y1="101.1875" x2="6.75" y2="96.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(98.500000, 174.000000) rotate(154.000000) translate(-98.500000, -174.000000) translate(73.000000, 123.000000)" stroke="#000000" stroke-width="2">
+                <line x1="50.0929649" y1="0.332717514" x2="1" y2="101.5" id="直线"></line>
+                <line x1="1" y1="101" x2="1.75" y2="93.25" id="直线-2"></line>
+                <line x1="1.6875" y1="101.1875" x2="6.75" y2="96.25" id="直线-2"></line>
+            </g>
+            <g id="编组" transform="translate(80.000000, 78.000000)" fill="#C3EEFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(40.000000, 154.000000)" fill="#E3FFC6" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(83.000000, 230.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 230.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(93.000000, 81.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(109.000000, 29.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" transform="translate(116.000000, 0.000000)" fill="#FFEEBF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(129.000000, 6.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="R">
+                    <text>
+                        <tspan x="0" y="20">R</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="f" transform="translate(53.000000, 161.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="f">
+                        <tspan x="0" y="20">f</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="fr" transform="translate(91.000000, 236.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="fr">
+                        <tspan x="0" y="20">fr</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="v" transform="translate(13.000000, 236.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="v">
+                        <tspan x="0" y="20">v</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="编组-6" transform="translate(652.000000, 39.000000)">
+            <g id="编组-2" stroke-linecap="round" transform="translate(74.500000, 129.500000) scale(-1, 1) translate(-74.500000, -129.500000) translate(61.000000, 104.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(86.500000, 133.500000) scale(-1, 1) rotate(-180.000000) translate(-86.500000, -133.500000) translate(73.000000, 108.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" opacity="0.3" stroke-linecap="round" transform="translate(33.500000, 137.500000) rotate(180.000000) translate(-33.500000, -137.500000) translate(20.000000, 112.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" opacity="0.3" stroke-linecap="round" transform="translate(32.000000, 107.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" transform="translate(40.000000, 77.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 153.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(53.000000, 80.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="f" transform="translate(13.000000, 160.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="f">
+                        <tspan x="0" y="20">f</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(73.500000, 213.500000) rotate(180.000000) translate(-73.500000, -213.500000) translate(60.000000, 188.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(70.500000, 60.500000) rotate(180.000000) translate(-70.500000, -60.500000) translate(57.000000, 35.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(72.000000, 183.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组-2" stroke-linecap="round" transform="translate(69.000000, 28.000000)" stroke="#000000" stroke-width="2">
+                <line x1="26.5" y1="0" x2="1" y2="50.5" id="直线"></line>
+                <line x1="1" y1="50" x2="1.75" y2="42.25" id="直线-2"></line>
+                <line x1="1.6875" y1="50.1875" x2="6.75" y2="45.25" id="直线-2"></line>
+            </g>
+            <g id="编组" transform="translate(40.000000, 77.000000)" fill="#E3FFC6" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 153.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(40.000000, 229.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="f" transform="translate(53.000000, 83.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="f">
+                        <tspan x="0" y="20">f</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" transform="translate(80.000000, 153.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(93.000000, 156.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" transform="translate(80.000000, 153.000000)" fill="#C3EEFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(93.000000, 156.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="g">
+                        <tspan x="0" y="20">g</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="v" transform="translate(13.000000, 159.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="v">
+                        <tspan x="0" y="20">v</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="fr" transform="translate(48.000000, 235.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="编组">
+                    <text id="fr">
+                        <tspan x="0" y="20">fr</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" transform="translate(77.000000, 0.000000)" fill="#FFEEBF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="g" transform="translate(90.000000, 6.000000)" fill="#000000" font-family="FiraCode-Light_Regular, Fira Code" font-size="20" font-weight="normal">
+                <g id="R">
+                    <text>
+                        <tspan x="0" y="20">R</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <text id="Origin" fill="#000000" font-family="FiraCode-Light_Retina, Fira Code" font-size="20" font-weight="300">
+            <tspan x="42" y="347">Origin</tspan>
+        </text>
+        <text id="Equal" fill="#000000" font-family="FiraCode-Light_Retina, Fira Code" font-size="20" font-weight="300">
+            <tspan x="374" y="411">Equal</tspan>
+        </text>
+        <text id="(A)" fill="#000000" font-family="FiraCode-Light_Retina, Fira Code" font-size="20" font-weight="300">
+            <tspan x="60" y="385">(A)</tspan>
+        </text>
+        <text id="(B)" fill="#000000" font-family="FiraCode-Light_Retina, Fira Code" font-size="20" font-weight="300">
+            <tspan x="279" y="385">(B)</tspan>
+        </text>
+        <text id="(B)" fill="#000000" font-family="FiraCode-Light_Retina, Fira Code" font-size="20" font-weight="300">
+            <tspan x="495" y="385">(B)</tspan>
+        </text>
+        <text id="(C)" fill="#000000" font-family="FiraCode-Light_Retina, Fira Code" font-size="20" font-weight="300">
+            <tspan x="693" y="385">(C)</tspan>
+        </text>
+        <text id="Target" fill="#000000" font-family="FiraCode-Light_Retina, Fira Code" font-size="20" font-weight="300">
+            <tspan x="675" y="347">Target</tspan>
+        </text>
+        <text id="Pointers" fill="#000000" font-family="FiraCode-Light_Retina, Fira Code" font-size="20" font-weight="300">
+            <tspan x="1" y="20">Pointers</tspan>
+        </text>
+        <path d="M251.979256,370.079782 L252.129171,370.132747 L269.271811,377.100329 C270.18879,377.473033 270.239733,378.394711 269.424641,378.828412 L269.271811,378.899671 L252.129171,385.867253 C251.441525,386.146744 250.570515,385.970521 250.183714,385.473647 C249.824543,385.012264 250.009175,384.436638 250.58795,384.132983 L250.728443,384.067912 L263.11723,379.032235 L260.357265,379.032235 C259.568297,379.032235 258.928712,378.570088 258.928712,378 C258.928712,377.470633 259.480191,377.034338 260.190666,376.974711 L260.357265,376.967766 L263.11723,376.967766 L250.728443,371.932088 C250.089915,371.67256 249.834019,371.111352 250.110414,370.634678 L250.183714,370.526353 C250.542887,370.06497 251.319567,369.880066 251.979256,370.079782 Z M115.625,378 C116.384392,378 117,378.447715 117,379 C117,379.512836 116.469195,379.935507 115.785354,379.993272 L115.625,380 L107.375,380 C106.615608,380 106,379.552285 106,379 C106,378.487164 106.530805,378.064493 107.214646,378.006728 L107.375,378 L115.625,378 Z M132.625,378 C133.384392,378 134,378.447715 134,379 C134,379.512836 133.469195,379.935507 132.785354,379.993272 L132.625,380 L124.375,380 C123.615608,380 123,379.552285 123,379 C123,378.487164 123.530805,378.064493 124.214646,378.006728 L124.375,378 L132.625,378 Z M149.625,378 C150.384392,378 151,378.447715 151,379 C151,379.512836 150.469195,379.935507 149.785354,379.993272 L149.625,380 L141.375,380 C140.615608,380 140,379.552285 140,379 C140,378.487164 140.530805,378.064493 141.214646,378.006728 L141.375,378 L149.625,378 Z M166.625,378 C167.384392,378 168,378.447715 168,379 C168,379.512836 167.469195,379.935507 166.785354,379.993272 L166.625,380 L158.375,380 C157.615608,380 157,379.552285 157,379 C157,378.487164 157.530805,378.064493 158.214646,378.006728 L158.375,378 L166.625,378 Z M183.625,378 C184.384392,378 185,378.447715 185,379 C185,379.512836 184.469195,379.935507 183.785354,379.993272 L183.625,380 L175.375,380 C174.615608,380 174,379.552285 174,379 C174,378.487164 174.530805,378.064493 175.214646,378.006728 L175.375,378 L183.625,378 Z M200.625,378 C201.384392,378 202,378.447715 202,379 C202,379.512836 201.469195,379.935507 200.785354,379.993272 L200.625,380 L192.375,380 C191.615608,380 191,379.552285 191,379 C191,378.487164 191.530805,378.064493 192.214646,378.006728 L192.375,378 L200.625,378 Z M217.625,378 C218.384392,378 219,378.447715 219,379 C219,379.512836 218.469195,379.935507 217.785354,379.993272 L217.625,380 L209.375,380 C208.615608,380 208,379.552285 208,379 C208,378.487164 208.530805,378.064493 209.214646,378.006728 L209.375,378 L217.625,378 Z M234.625,378 C235.384392,378 236,378.447715 236,379 C236,379.512836 235.469195,379.935507 234.785354,379.993272 L234.625,380 L226.375,380 C225.615608,380 225,379.552285 225,379 C225,378.487164 225.530805,378.064493 226.214646,378.006728 L226.375,378 L234.625,378 Z M251.625,378 C252.384392,378 253,378.447715 253,379 C253,379.512836 252.469195,379.935507 251.785354,379.993272 L251.625,380 L243.375,380 C242.615608,380 242,379.552285 242,379 C242,378.487164 242.530805,378.064493 243.214646,378.006728 L243.375,378 L251.625,378 Z" id="直线-2" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M670.78133,370.079782 L670.916254,370.132747 L686.34463,377.100329 C687.169911,377.473033 687.21576,378.394711 686.482177,378.828412 L686.34463,378.899671 L670.916254,385.867253 C670.297373,386.146744 669.513463,385.970521 669.165343,385.473647 C668.842089,385.012264 669.008257,384.436638 669.529155,384.132983 L669.655599,384.067912 L680.805507,379.032235 L678.321539,379.032235 C677.611467,379.032235 677.035841,378.570088 677.035841,378 C677.035841,377.470633 677.532172,377.034338 678.171599,376.974711 L678.321539,376.967766 L680.805507,376.967766 L669.655599,371.932088 C669.080924,371.67256 668.850617,371.111352 669.099372,370.634678 L669.165343,370.526353 C669.488598,370.06497 670.18761,369.880066 670.78133,370.079782 Z M548.75,378 C549.440356,378 550,378.447715 550,379 C550,379.512836 549.51745,379.935507 548.895776,379.993272 L548.75,380 L541.25,380 C540.559644,380 540,379.552285 540,379 C540,378.487164 540.48255,378.064493 541.104224,378.006728 L541.25,378 L548.75,378 Z M563.75,378 C564.440356,378 565,378.447715 565,379 C565,379.512836 564.51745,379.935507 563.895776,379.993272 L563.75,380 L556.25,380 C555.559644,380 555,379.552285 555,379 C555,378.487164 555.48255,378.064493 556.104224,378.006728 L556.25,378 L563.75,378 Z M578.75,378 C579.440356,378 580,378.447715 580,379 C580,379.512836 579.51745,379.935507 578.895776,379.993272 L578.75,380 L571.25,380 C570.559644,380 570,379.552285 570,379 C570,378.487164 570.48255,378.064493 571.104224,378.006728 L571.25,378 L578.75,378 Z M594.75,378 C595.440356,378 596,378.447715 596,379 C596,379.512836 595.51745,379.935507 594.895776,379.993272 L594.75,380 L587.25,380 C586.559644,380 586,379.552285 586,379 C586,378.487164 586.48255,378.064493 587.104224,378.006728 L587.25,378 L594.75,378 Z M609.75,378 C610.440356,378 611,378.447715 611,379 C611,379.512836 610.51745,379.935507 609.895776,379.993272 L609.75,380 L602.25,380 C601.559644,380 601,379.552285 601,379 C601,378.487164 601.48255,378.064493 602.104224,378.006728 L602.25,378 L609.75,378 Z M624.75,378 C625.440356,378 626,378.447715 626,379 C626,379.512836 625.51745,379.935507 624.895776,379.993272 L624.75,380 L617.25,380 C616.559644,380 616,379.552285 616,379 C616,378.487164 616.48255,378.064493 617.104224,378.006728 L617.25,378 L624.75,378 Z M639.75,378 C640.440356,378 641,378.447715 641,379 C641,379.512836 640.51745,379.935507 639.895776,379.993272 L639.75,380 L632.25,380 C631.559644,380 631,379.552285 631,379 C631,378.487164 631.48255,378.064493 632.104224,378.006728 L632.25,378 L639.75,378 Z M655.75,378 C656.440356,378 657,378.447715 657,379 C657,379.512836 656.51745,379.935507 655.895776,379.993272 L655.75,380 L648.25,380 C647.559644,380 647,379.552285 647,379 C647,378.487164 647.48255,378.064493 648.104224,378.006728 L648.25,378 L655.75,378 Z M670.75,378 C671.440356,378 672,378.447715 672,379 C672,379.512836 671.51745,379.935507 670.895776,379.993272 L670.75,380 L663.25,380 C662.559644,380 662,379.552285 662,379 C662,378.487164 662.48255,378.064493 663.104224,378.006728 L663.25,378 L670.75,378 Z" id="直线-2" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M343.816286,371.526353 C344.175457,371.987736 343.990825,372.563362 343.41205,372.867017 L343.271557,372.932088 L330.878484,377.967765 L335.071288,377.967765 C335.860257,377.967765 336.499841,378.429912 336.499841,379 C336.499841,379.529367 335.948363,379.965662 335.237887,380.025289 L335.071288,380.032234 L330.88277,380.032234 L343.271557,385.067912 C343.910085,385.32744 344.165981,385.888648 343.889586,386.365322 L343.816286,386.473647 C343.457113,386.93503 342.680433,387.119934 342.020744,386.920218 L341.870829,386.867253 L324.728189,379.899671 C323.81121,379.526967 323.760267,378.605289 324.575359,378.171588 L324.728189,378.100329 L341.870829,371.132747 C342.558475,370.853256 343.429485,371.029479 343.816286,371.526353 Z M467.979256,371.079782 L468.129171,371.132747 L485.271811,378.100329 C486.18879,378.473033 486.239733,379.394711 485.424641,379.828412 L485.271811,379.899671 L468.129171,386.867253 C467.441525,387.146744 466.570515,386.970521 466.183714,386.473647 C465.824543,386.012264 466.009175,385.436638 466.58795,385.132983 L466.728443,385.067912 L479.115802,380.032235 L476.357265,380.032235 C475.568297,380.032235 474.928712,379.570088 474.928712,379 C474.928712,378.470633 475.480191,378.034338 476.190666,377.974711 L476.357265,377.967766 L479.120088,377.967766 L466.728443,372.932088 C466.089915,372.67256 465.834019,372.111352 466.110414,371.634678 L466.183714,371.526353 C466.542887,371.06497 467.319567,370.880066 467.979256,371.079782 Z M351.625,378 C352.384392,378 353,378.447715 353,379 C353,379.512836 352.469195,379.935507 351.785354,379.993272 L351.625,380 L343.375,380 C342.615608,380 342,379.552285 342,379 C342,378.487164 342.530805,378.064493 343.214646,378.006728 L343.375,378 L351.625,378 Z M368.625,378 C369.384392,378 370,378.447715 370,379 C370,379.512836 369.469195,379.935507 368.785354,379.993272 L368.625,380 L360.375,380 C359.615608,380 359,379.552285 359,379 C359,378.487164 359.530805,378.064493 360.214646,378.006728 L360.375,378 L368.625,378 Z M384.625,378 C385.384392,378 386,378.447715 386,379 C386,379.512836 385.469195,379.935507 384.785354,379.993272 L384.625,380 L376.375,380 C375.615608,380 375,379.552285 375,379 C375,378.487164 375.530805,378.064493 376.214646,378.006728 L376.375,378 L384.625,378 Z M401.625,378 C402.384392,378 403,378.447715 403,379 C403,379.512836 402.469195,379.935507 401.785354,379.993272 L401.625,380 L393.375,380 C392.615608,380 392,379.552285 392,379 C392,378.487164 392.530805,378.064493 393.214646,378.006728 L393.375,378 L401.625,378 Z M418.625,378 C419.384392,378 420,378.447715 420,379 C420,379.512836 419.469195,379.935507 418.785354,379.993272 L418.625,380 L410.375,380 C409.615608,380 409,379.552285 409,379 C409,378.487164 409.530805,378.064493 410.214646,378.006728 L410.375,378 L418.625,378 Z M434.625,378 C435.384392,378 436,378.447715 436,379 C436,379.512836 435.469195,379.935507 434.785354,379.993272 L434.625,380 L426.375,380 C425.615608,380 425,379.552285 425,379 C425,378.487164 425.530805,378.064493 426.214646,378.006728 L426.375,378 L434.625,378 Z M450.625,378 C451.384392,378 452,378.447715 452,379 C452,379.512836 451.469195,379.935507 450.785354,379.993272 L450.625,380 L442.375,380 C441.615608,380 441,379.552285 441,379 C441,378.487164 441.530805,378.064493 442.214646,378.006728 L442.375,378 L450.625,378 Z M467.625,378 C468.384392,378 469,378.447715 469,379 C469,379.512836 468.469195,379.935507 467.785354,379.993272 L467.625,380 L459.375,380 C458.615608,380 458,379.552285 458,379 C458,378.487164 458.530805,378.064493 459.214646,378.006728 L459.375,378 L467.625,378 Z" id="直线-2" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
