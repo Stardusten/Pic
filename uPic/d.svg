@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="879px" height="277px" viewBox="0 0 879 277" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>b 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="b" transform="translate(1.000000, 1.000000)">
+            <line x1="99.5" y1="22.5" x2="59.5" y2="95.5" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="59" y1="95" x2="19" y2="171" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <g id="编组" transform="translate(80.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(40.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 152.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="93" y="23">g</tspan>
+            </text>
+            <text id="f" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="53" y="103">f</tspan>
+            </text>
+            <line x1="99.5" y1="22.5" x2="59.5" y2="95.5" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="59" y1="95" x2="19" y2="171" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <path d="M268.135319,219.327113 L268.240261,219.378424 L280.240261,226.128424 L281.789729,227 L280.240261,227.871576 L268.240261,234.621576 C267.758903,234.892339 267.149188,234.721619 266.878424,234.240261 C266.627001,233.793286 266.756245,233.235636 267.161393,232.941463 L267.259739,232.878424 L275.931,228 L273,228 C272.447715,228 272,227.552285 272,227 C272,226.487164 272.38604,226.064493 272.883379,226.006728 L273,226 L275.934,226 L267.259739,221.121576 C266.812764,220.870152 266.633634,220.326469 266.827113,219.864681 L266.878424,219.759739 C267.129848,219.312764 267.673531,219.133634 268.135319,219.327113 Z M267,226 C267.552285,226 268,226.447715 268,227 C268,227.512836 267.61396,227.935507 267.116621,227.993272 L267,228 L261,228 C260.447715,228 260,227.552285 260,227 C260,226.487164 260.38604,226.064493 260.883379,226.006728 L261,226 L267,226 Z M255,226 C255.552285,226 256,226.447715 256,227 C256,227.512836 255.61396,227.935507 255.116621,227.993272 L255,228 L249,228 C248.447715,228 248,227.552285 248,227 C248,226.487164 248.38604,226.064493 248.883379,226.006728 L249,226 L255,226 Z M243,226 C243.552285,226 244,226.447715 244,227 C244,227.512836 243.61396,227.935507 243.116621,227.993272 L243,228 L237,228 C236.447715,228 236,227.552285 236,227 C236,226.487164 236.38604,226.064493 236.883379,226.006728 L237,226 L243,226 Z M231,226 C231.552285,226 232,226.447715 232,227 C232,227.512836 231.61396,227.935507 231.116621,227.993272 L231,228 L225,228 C224.447715,228 224,227.552285 224,227 C224,226.487164 224.38604,226.064493 224.883379,226.006728 L225,226 L231,226 Z M219,226 C219.552285,226 220,226.447715 220,227 C220,227.512836 219.61396,227.935507 219.116621,227.993272 L219,228 L213,228 C212.447715,228 212,227.552285 212,227 C212,226.487164 212.38604,226.064493 212.883379,226.006728 L213,226 L219,226 Z M207,226 C207.552285,226 208,226.447715 208,227 C208,227.512836 207.61396,227.935507 207.116621,227.993272 L207,228 L201,228 C200.447715,228 200,227.552285 200,227 C200,226.487164 200.38604,226.064493 200.883379,226.006728 L201,226 L207,226 Z M195,226 C195.552285,226 196,226.447715 196,227 C196,227.512836 195.61396,227.935507 195.116621,227.993272 L195,228 L189,228 C188.447715,228 188,227.552285 188,227 C188,226.487164 188.38604,226.064493 188.883379,226.006728 L189,226 L195,226 Z M183,226 C183.552285,226 184,226.447715 184,227 C184,227.512836 183.61396,227.935507 183.116621,227.993272 L183,228 L177,228 C176.447715,228 176,227.552285 176,227 C176,226.487164 176.38604,226.064493 176.883379,226.006728 L177,226 L183,226 Z M171,226 C171.552285,226 172,226.447715 172,227 C172,227.512836 171.61396,227.935507 171.116621,227.993272 L171,228 L165,228 C164.447715,228 164,227.552285 164,227 C164,226.487164 164.38604,226.064493 164.883379,226.006728 L165,226 L171,226 Z M159,226 C159.552285,226 160,226.447715 160,227 C160,227.512836 159.61396,227.935507 159.116621,227.993272 L159,228 L153,228 C152.447715,228 152,227.552285 152,227 C152,226.487164 152.38604,226.064493 152.883379,226.006728 L153,226 L159,226 Z M147,226 C147.552285,226 148,226.447715 148,227 C148,227.512836 147.61396,227.935507 147.116621,227.993272 L147,228 L141,228 C140.447715,228 140,227.552285 140,227 C140,226.487164 140.38604,226.064493 140.883379,226.006728 L141,226 L147,226 Z M135,226 C135.552285,226 136,226.447715 136,227 C136,227.512836 135.61396,227.935507 135.116621,227.993272 L135,228 L129,228 C128.447715,228 128,227.552285 128,227 C128,226.487164 128.38604,226.064493 128.883379,226.006728 L129,226 L135,226 Z M123,226 C123.552285,226 124,226.447715 124,227 C124,227.512836 123.61396,227.935507 123.116621,227.993272 L123,228 L117,228 C116.447715,228 116,227.552285 116,227 C116,226.487164 116.38604,226.064493 116.883379,226.006728 L117,226 L123,226 Z M111,226 C111.552285,226 112,226.447715 112,227 C112,227.512836 111.61396,227.935507 111.116621,227.993272 L111,228 L105,228 C104.447715,228 104,227.552285 104,227 C104,226.487164 104.38604,226.064493 104.883379,226.006728 L105,226 L111,226 Z M99,226 C99.552285,226 100,226.447715 100,227 C100,227.512836 99.61396,227.935507 99.116621,227.993272 L99,228 L93,228 C92.4477153,228 92,227.552285 92,227 C92,226.487164 92.3860402,226.064493 92.8833789,226.006728 L93,226 L99,226 Z" id="直线" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M778.135319,219.327113 L778.240261,219.378424 L790.240261,226.128424 L791.789729,227 L790.240261,227.871576 L778.240261,234.621576 C777.758903,234.892339 777.149188,234.721619 776.878424,234.240261 C776.627001,233.793286 776.756245,233.235636 777.161393,232.941463 L777.259739,232.878424 L785.931,228 L783,228 C782.447715,228 782,227.552285 782,227 C782,226.487164 782.38604,226.064493 782.883379,226.006728 L783,226 L785.934,226 L777.259739,221.121576 C776.812764,220.870152 776.633634,220.326469 776.827113,219.864681 L776.878424,219.759739 C777.129848,219.312764 777.673531,219.133634 778.135319,219.327113 Z M777,226 C777.552285,226 778,226.447715 778,227 C778,227.512836 777.61396,227.935507 777.116621,227.993272 L777,228 L771,228 C770.447715,228 770,227.552285 770,227 C770,226.487164 770.38604,226.064493 770.883379,226.006728 L771,226 L777,226 Z M765,226 C765.552285,226 766,226.447715 766,227 C766,227.512836 765.61396,227.935507 765.116621,227.993272 L765,228 L759,228 C758.447715,228 758,227.552285 758,227 C758,226.487164 758.38604,226.064493 758.883379,226.006728 L759,226 L765,226 Z M753,226 C753.552285,226 754,226.447715 754,227 C754,227.512836 753.61396,227.935507 753.116621,227.993272 L753,228 L747,228 C746.447715,228 746,227.552285 746,227 C746,226.487164 746.38604,226.064493 746.883379,226.006728 L747,226 L753,226 Z M741,226 C741.552285,226 742,226.447715 742,227 C742,227.512836 741.61396,227.935507 741.116621,227.993272 L741,228 L735,228 C734.447715,228 734,227.552285 734,227 C734,226.487164 734.38604,226.064493 734.883379,226.006728 L735,226 L741,226 Z M729,226 C729.552285,226 730,226.447715 730,227 C730,227.512836 729.61396,227.935507 729.116621,227.993272 L729,228 L723,228 C722.447715,228 722,227.552285 722,227 C722,226.487164 722.38604,226.064493 722.883379,226.006728 L723,226 L729,226 Z M717,226 C717.552285,226 718,226.447715 718,227 C718,227.512836 717.61396,227.935507 717.116621,227.993272 L717,228 L711,228 C710.447715,228 710,227.552285 710,227 C710,226.487164 710.38604,226.064493 710.883379,226.006728 L711,226 L717,226 Z M705,226 C705.552285,226 706,226.447715 706,227 C706,227.512836 705.61396,227.935507 705.116621,227.993272 L705,228 L699,228 C698.447715,228 698,227.552285 698,227 C698,226.487164 698.38604,226.064493 698.883379,226.006728 L699,226 L705,226 Z M693,226 C693.552285,226 694,226.447715 694,227 C694,227.512836 693.61396,227.935507 693.116621,227.993272 L693,228 L687,228 C686.447715,228 686,227.552285 686,227 C686,226.487164 686.38604,226.064493 686.883379,226.006728 L687,226 L693,226 Z M681,226 C681.552285,226 682,226.447715 682,227 C682,227.512836 681.61396,227.935507 681.116621,227.993272 L681,228 L675,228 C674.447715,228 674,227.552285 674,227 C674,226.487164 674.38604,226.064493 674.883379,226.006728 L675,226 L681,226 Z M669,226 C669.552285,226 670,226.447715 670,227 C670,227.512836 669.61396,227.935507 669.116621,227.993272 L669,228 L663,228 C662.447715,228 662,227.552285 662,227 C662,226.487164 662.38604,226.064493 662.883379,226.006728 L663,226 L669,226 Z M657,226 C657.552285,226 658,226.447715 658,227 C658,227.512836 657.61396,227.935507 657.116621,227.993272 L657,228 L651,228 C650.447715,228 650,227.552285 650,227 C650,226.487164 650.38604,226.064493 650.883379,226.006728 L651,226 L657,226 Z M645,226 C645.552285,226 646,226.447715 646,227 C646,227.512836 645.61396,227.935507 645.116621,227.993272 L645,228 L639,228 C638.447715,228 638,227.552285 638,227 C638,226.487164 638.38604,226.064493 638.883379,226.006728 L639,226 L645,226 Z M633,226 C633.552285,226 634,226.447715 634,227 C634,227.512836 633.61396,227.935507 633.116621,227.993272 L633,228 L627,228 C626.447715,228 626,227.552285 626,227 C626,226.487164 626.38604,226.064493 626.883379,226.006728 L627,226 L633,226 Z M621,226 C621.552285,226 622,226.447715 622,227 C622,227.512836 621.61396,227.935507 621.116621,227.993272 L621,228 L615,228 C614.447715,228 614,227.552285 614,227 C614,226.487164 614.38604,226.064493 614.883379,226.006728 L615,226 L621,226 Z M609,226 C609.552285,226 610,226.447715 610,227 C610,227.512836 609.61396,227.935507 609.116621,227.993272 L609,228 L603,228 C602.447715,228 602,227.552285 602,227 C602,226.487164 602.38604,226.064493 602.883379,226.006728 L603,226 L609,226 Z" id="直线" fill="#000000" fill-rule="nonzero"></path>
+            <line x1="59" y1="95" x2="99" y2="171" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <g id="编组" transform="translate(80.000000, 0.000000)" fill="#C3EEFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(40.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(80.000000, 152.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(0.000000, 152.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="93" y="23">g</tspan>
+            </text>
+            <text id="f" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="53" y="103">f</tspan>
+            </text>
+            <text id="(a)" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="43" y="234">(a)</tspan>
+            </text>
+            <text id="(b)" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="291" y="234">(b)</tspan>
+            </text>
+            <text id="R_rotate(g)" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="116" y="270">R_rotate(g)</tspan>
+            </text>
+            <text id="(c)" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="552" y="234">(c)</tspan>
+            </text>
+            <text id="(d)" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="800" y="234">(d)</tspan>
+            </text>
+            <text id="L_rotate(g)" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="631" y="270">L_rotate(g)</tspan>
+            </text>
+            <text id="fr" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="88" y="178">fr</tspan>
+            </text>
+            <text id="v" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="13" y="178">v</tspan>
+            </text>
+            <line x1="591" y1="92" x2="551" y2="165" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <g id="编组" transform="translate(531.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="544" y="23">g</tspan>
+            </text>
+            <line x1="550.5" y1="22.5" x2="590" y2="96" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="590" y1="92" x2="630" y2="168" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <g id="编组" transform="translate(531.000000, 0.000000)" fill="#C3EEFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(571.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(531.000000, 152.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(611.000000, 152.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="544" y="23">g</tspan>
+            </text>
+            <text id="f" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="584" y="103">f</tspan>
+            </text>
+            <text id="fl" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="539" y="178">fl</tspan>
+            </text>
+            <text id="v" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="624" y="178">v</tspan>
+            </text>
+            <line x1="778" y1="96" x2="819" y2="165" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <g id="编组" transform="translate(799.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="812" y="23">g</tspan>
+            </text>
+            <line x1="818.5" y1="22.5" x2="858" y2="96" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="818.5" y1="22.5" x2="778" y2="96" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <g id="编组" transform="translate(799.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(839.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(799.000000, 152.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="f" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="813" y="26">f</tspan>
+            </text>
+            <g id="编组" transform="translate(759.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="772" y="99">g</tspan>
+            </text>
+            <g id="编组" transform="translate(759.000000, 76.000000)" fill="#C3EEFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="772" y="99">g</tspan>
+            </text>
+            <text id="v" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="852" y="103">v</tspan>
+            </text>
+            <text id="fl" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="807" y="178">fl</tspan>
+            </text>
+            <line x1="307.5" y1="22.5" x2="267.5" y2="95.5" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <g id="编组" transform="translate(288.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(248.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="301" y="23">g</tspan>
+            </text>
+            <text id="f" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="261" y="103">f</tspan>
+            </text>
+            <line x1="307.5" y1="22.5" x2="267.5" y2="95.5" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="307.5" y1="22.5" x2="347" y2="95" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="347" y1="95" x2="307" y2="171" id="直线" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+            <g id="编组" transform="translate(288.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(248.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <g id="编组" transform="translate(288.000000, 152.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="f" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="301" y="26">f</tspan>
+            </text>
+            <g id="编组" transform="translate(328.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="341" y="99">g</tspan>
+            </text>
+            <g id="编组" transform="translate(328.000000, 76.000000)" fill="#C3EEFF" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+                <circle id="椭圆形" cx="19" cy="19" r="19"></circle>
+            </g>
+            <text id="g" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="341" y="99">g</tspan>
+            </text>
+            <text id="v" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="261" y="102">v</tspan>
+            </text>
+            <text id="fr" fill="#000000" font-family="FiraCode-Light_Medium, Fira Code" font-size="20" font-weight="400">
+                <tspan x="296" y="178">fr</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
