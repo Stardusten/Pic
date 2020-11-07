@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="605px" height="210px" viewBox="0 0 605 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>未命名</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#BCE2FF" x="157" y="51" width="152" height="36"></rect>
+        <rect id="矩形" fill="#DEFFBB" transform="translate(447.000000, 69.000000) scale(-1, 1) translate(-447.000000, -69.000000) " x="309" y="51" width="276" height="36"></rect>
+        <rect id="矩形" stroke="#000000" stroke-width="2" x="158" y="52" width="426" height="34"></rect>
+        <text id="i" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="228" y="75">i</tspan>
+        </text>
+        <text id="j" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="304" y="18">j</tspan>
+        </text>
+        <text id="Correct" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="0" y="75">Correct</tspan>
+        </text>
+        <text id="0" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="594" y="75">0</tspan>
+        </text>
+        <text id="0" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="594" y="180">0</tspan>
+        </text>
+        <text id="W" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="137" y="75">W</tspan>
+        </text>
+        <text id="i-1" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="431" y="75">i-1</tspan>
+        </text>
+        <g id="编组" transform="translate(157.000000, 96.500000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <line x1="0.5" y1="4" x2="148" y2="4.5" id="直线"></line>
+            <line x1="139" y1="0.5" x2="148" y2="4.5" id="直线-2"></line>
+            <line x1="139" y1="4.5" x2="148" y2="8.5" id="直线-2" transform="translate(143.500000, 6.500000) scale(1, -1) translate(-143.500000, -6.500000) "></line>
+        </g>
+        <g id="编组" transform="translate(309.500000, 38.500000) rotate(90.000000) translate(-309.500000, -38.500000) translate(297.000000, 34.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <line x1="1" y1="4" x2="24" y2="4.5" id="直线" transform="translate(12.500000, 4.500000) rotate(-1.245364) translate(-12.500000, -4.500000) "></line>
+            <line x1="15" y1="0.5" x2="24" y2="4.5" id="直线-2"></line>
+            <line x1="15" y1="4.5" x2="24" y2="8.5" id="直线-2" transform="translate(19.500000, 6.500000) scale(1, -1) translate(-19.500000, -6.500000) "></line>
+        </g>
+        <text id="j-w[i]" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="481" y="18">j-w[i]</tspan>
+        </text>
+        <g id="编组" transform="translate(513.500000, 39.500000) rotate(90.000000) translate(-513.500000, -39.500000) translate(501.000000, 35.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <line x1="1" y1="4" x2="24" y2="4.5" id="直线" transform="translate(12.500000, 4.500000) rotate(-1.245364) translate(-12.500000, -4.500000) "></line>
+            <line x1="15" y1="0.5" x2="24" y2="4.5" id="直线-2"></line>
+            <line x1="15" y1="4.5" x2="24" y2="8.5" id="直线-2" transform="translate(19.500000, 6.500000) scale(1, -1) translate(-19.500000, -6.500000) "></line>
+        </g>
+        <text id="j" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="304" y="123">j</tspan>
+        </text>
+        <g id="编组" transform="translate(309.500000, 143.500000) rotate(90.000000) translate(-309.500000, -143.500000) translate(297.000000, 139.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <line x1="1" y1="4" x2="24" y2="4.5" id="直线" transform="translate(12.500000, 4.500000) rotate(-1.245364) translate(-12.500000, -4.500000) "></line>
+            <line x1="15" y1="0.5" x2="24" y2="4.5" id="直线-2"></line>
+            <line x1="15" y1="4.5" x2="24" y2="8.5" id="直线-2" transform="translate(19.500000, 6.500000) scale(1, -1) translate(-19.500000, -6.500000) "></line>
+        </g>
+        <text id="j-w[i]" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="480" y="123">j-w[i]</tspan>
+        </text>
+        <g id="编组" transform="translate(512.500000, 144.500000) rotate(90.000000) translate(-512.500000, -144.500000) translate(500.000000, 140.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <line x1="1" y1="4" x2="24" y2="4.5" id="直线" transform="translate(12.500000, 4.500000) rotate(-1.245364) translate(-12.500000, -4.500000) "></line>
+            <line x1="15" y1="0.5" x2="24" y2="4.5" id="直线-2"></line>
+            <line x1="15" y1="4.5" x2="24" y2="8.5" id="直线-2" transform="translate(19.500000, 6.500000) scale(1, -1) translate(-19.500000, -6.500000) "></line>
+        </g>
+        <rect id="矩形" fill="#BCE2FF" x="306" y="156" width="278" height="36"></rect>
+        <rect id="矩形" fill="#DEFFBB" transform="translate(234.000000, 174.000000) scale(-1, 1) translate(-234.000000, -174.000000) " x="159" y="156" width="150" height="36"></rect>
+        <rect id="矩形" stroke="#000000" stroke-width="2" x="158" y="157" width="426" height="34"></rect>
+        <text id="i-1" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="217" y="180">i-1</tspan>
+        </text>
+        <text id="Incorrect" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="0" y="180">Incorrect</tspan>
+        </text>
+        <text id="W" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="137" y="180">W</tspan>
+        </text>
+        <text id="i" font-family="FiraCode-Light_Retina, Fira Code" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="442" y="180">i</tspan>
+        </text>
+        <g id="编组" transform="translate(509.500000, 204.500000) rotate(180.000000) translate(-509.500000, -204.500000) translate(435.000000, 200.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <line x1="0.5" y1="4" x2="148" y2="4.5" id="直线"></line>
+            <line x1="139" y1="0.5" x2="148" y2="4.5" id="直线-2"></line>
+            <line x1="139" y1="4.5" x2="148" y2="8.5" id="直线-2" transform="translate(143.500000, 6.500000) scale(1, -1) translate(-143.500000, -6.500000) "></line>
+        </g>
+    </g>
+</svg>
